@@ -6,6 +6,7 @@ import {Collaboration} from "./components/Collaboration.jsx";
 import {Services} from "./components/Services.jsx";
 import Roadmap from "./components/Roadmap.jsx";
 import {Footer} from "./components/Footer.jsx";
+import {Pricing} from "./components/Pricing.jsx";
 
 const App = () => {
 
@@ -17,6 +18,7 @@ const App = () => {
                 <Benefits />
                 <Collaboration />
                 <Services />
+                <Pricing />
                 <Roadmap />
                 <Footer />
             </div>
